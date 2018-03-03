@@ -1,9 +1,14 @@
-# Side Project Marketing
+# The Side Project Marketing Checklist
 
-[![](https://i.imgur.com/uZJHDXL.jpg)](https://www.sideprojectchecklist.com/)
+[![](https://i.imgur.com/uZJHDXL.jpg)](https://www.sideprojectchecklist.com/marketing-checklist)
 
 
-## Why?
+## What
+
+The [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and open source.
+
+
+## Why
 
 I've been building little software side projects for years, but I've always been terrible at marketing them. I come up with some ideas, forget those ideas, do some random stuff, then lose interest. The goal of this repository is to fix that.
 
@@ -20,25 +25,16 @@ I've been building little software side projects for years, but I've always been
 
 The checklist and companion blog posts are also available online at [sideprojectchecklist.com](https://www.sideprojectchecklist.com/).
 
+Don't forget to also check out the [Side Project Sales Checklist](https://github.com/karllhughes/side-project-sales) as well.
+
 
 ## Contributing
 
 See the [Contributing page](https://www.sideprojectchecklist.com/contributing/).
 
 
-## Credits
-
-See the [resources page](https://www.sideprojectchecklist.com/resources/).
-
-
-## Local Development
-
-This site is powered by [Jekyll](https://jekyllrb.com/), so if you'd like to run the site locally (and you're using Docker), here are some of the commands you can use:
-
-- Build the site: `docker run --rm -it -v $PWD:/srv/jekyll jekyll/jekyll:latest jekyll build`
-- Serve locally: `docker run --rm -it -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:latest jekyll serve`
-
-
 ## License
 
 This project is offered via the MIT License. See the [license page](https://www.sideprojectchecklist.com/license/) for details.
+
+Copyright 2017, Portable CTO LLC.
